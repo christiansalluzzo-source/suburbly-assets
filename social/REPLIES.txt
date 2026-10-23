@@ -1,0 +1,77 @@
+SUBURBLY — READY REPLIES FOR COMMENTS AND DMs (2026-10-23)
+Copy, then change a word or two so it doesn't read canned. Reply within a day. Short beats complete.
+
+RULES
+- No encryption or security promises. Say what's true: we don't sell or share data, and you can delete it any time.
+- Never say a competitor lacks something. Describe what Suburbly does.
+- Prices (USD, set by Google Play; local prices vary): FREE $0 · PRO $5.99/mo or $54.99/yr · BUSINESS $12.99/mo or $99.99/yr. 14-day PRO trial for new accounts, no card.
+- No dates for features that aren't built (iPhone, other languages, invoicing).
+- Hide spam and scams. Never delete honest criticism: answer it once, politely, then move on.
+- Anything about a user's account, payment or a bug: send them to support@suburbly.app.
+
+PRODUCT
+"Is there an iPhone version?"
+  Not yet, it's Android only for now. If enough people ask, iPhone is next. Thanks for asking!
+
+"Is it really free?"
+  Yes. The free plan has no time limit: unlimited houses, the map, the Agenda with reminders, contacts, and one Concierge suggestion a day. PRO adds cloud backup, Property Insights, voice and photo AI and the full daily Concierge, and new accounts get PRO free for 14 days, no card.
+
+"How much is PRO?"
+  $5.99 a month or $54.99 a year (USD; Google Play shows your local price). No minimum number of users, no setup fee.
+
+"How is this different from Jobber / Housecall Pro?"
+  Those run the job once it's booked: quotes, invoices, payments. Suburbly is for everything before and between: every door you knock, every lead, and the follow-up you owe each one, on a map. Plenty of people use both.
+
+"How is this different from Spotio / SalesRabbit?"
+  Same idea, every door on a map, but built for one person or a small crew: no 5-user minimum, a free plan, and about $5 a month for PRO.
+
+"Does it work without signal?"
+  Yes. You can tag houses, add notes and set next steps offline; with PRO it backs everything up and syncs when you're back online.
+
+"Can my crew use it?"
+  Yes, with BUSINESS: create a team and tap "Invite your crew". They install Suburbly, sign in and enter the team code, and you share houses and templates with them. Each person uses their own phone; members need PRO to join (new accounts get 14 days free).
+
+"Does it work for [my trade]?"
+  It has 20 ready-made templates (lawn care, pest control, roofing, junk removal, gutters, real estate, canvassing and more), and you can turn fields on and off or add your own. Tell us what you do and we'll point you to the closest one.
+
+"Does Property Insights work where I am?"
+  It covers the US, Canada, the UK, Ireland, Australia and New Zealand. It uses public listing sites, so it's best on homes that have been listed or sold before.
+
+"Is it in Spanish / French?"
+  English only for now. Noted, thank you.
+
+"Does it do quotes / invoices?"
+  Not today. Suburbly keeps track of the houses, the people and the follow-ups. Many users send quotes from their invoicing app and set the follow-up in Suburbly.
+
+DATA AND PRIVACY
+"Who can see my customers' data?"
+  Only you (and your team, if you share with one). We don't sell or share your data, and you can delete your account and everything in it from the app any time. Details: https://api.suburbly.app/privacy-policy
+
+"Do you use AI on my data?"
+  Only when you tap an AI feature (voice, photo, Property Insights, Concierge), and only what that request needs. The privacy policy lists exactly what's sent: https://api.suburbly.app/privacy-policy
+
+"How do I delete my account?"
+  In the app: More → Account → Delete account. If you can't open the app, email support@suburbly.app from your account's email and we'll do it.
+
+PROBLEMS
+"It doesn't work / it crashed / I can't sign in"
+  Sorry about that! Could you email support@suburbly.app with your phone model and what happened? We'll sort it out quickly.
+
+"I paid but don't have PRO"
+  Sorry! Open the app, go to More → Account and tap Refresh billing. If it's still not PRO, email support@suburbly.app with the Google Play order number (it starts with GPA.) and we'll fix it the same day.
+
+"Too expensive"
+  Fair. The free plan covers the map, the Agenda and reminders with no time limit, so you can see if it fits before paying anything.
+
+OTHER
+"Is this a scam?" / "Fake"
+  Fair question. It's a small Canadian company (SLLZZ Studio). The app is on Google Play under that name, and the website is suburbly.app.
+
+Someone tags a friend
+  Thanks for sharing! 🙌
+
+Spam, scams, "DM me to grow your page"
+  Hide the comment. Don't reply.
+
+DM instant reply (already set or to set in Business Suite → Inbox → Automations)
+  Thanks for writing! We reply within one business day. For anything about your account, email support@suburbly.app.

@@ -1,0 +1,49 @@
+SUBURBLY — LINKS AND HASHTAGS (2026-10-23)
+
+Every link carries tags so the admin app can see which post brought an install.
+Replace <ID> with the post's code: muse_<YYMMDD>_<asset code>, e.g. muse_261024_R1.
+Use letters, numbers and underscores only in <ID>.
+
+===================== WEBSITE LINKS (preferred for Facebook posts) =====================
+The website keeps the tags and passes them to Google Play when someone taps the Play button.
+Home:          https://suburbly.app/?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Crews:         https://suburbly.app/?utm_source=facebook&utm_medium=post&utm_campaign=<ID>#teams
+Lawn care:     https://suburbly.app/lawn-care?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Pest control:  https://suburbly.app/pest-control?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Junk removal:  https://suburbly.app/junk-removal?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Roofing:       https://suburbly.app/roofing?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Door-to-door:  https://suburbly.app/door-to-door-sales?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Real estate:   https://suburbly.app/real-estate-agents?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+Canvassing:    https://suburbly.app/political-canvassing?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
+
+On other platforms, change utm_source: instagram (story link stickers), tiktok, youtube, x.
+
+===================== DIRECT GOOGLE PLAY LINK (when a post should go straight to the store) =====================
+https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dfacebook%26utm_medium%3Dpost%26utm_campaign%3D<ID>
+(Keep the %3D and %26 exactly as written; only change "facebook" and <ID>.)
+
+===================== PROFILE LINKS (already set; don't change) =====================
+Instagram bio:        https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dinstagram%26utm_medium%3Dprofile
+Facebook Page button: https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dfacebook%26utm_medium%3Dpage
+TikTok bio:           https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dtiktok%26utm_medium%3Dprofile
+YouTube:              https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dyoutube%26utm_medium%3Dvideo
+X bio:                https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dx%26utm_medium%3Dprofile
+
+Instagram captions: links aren't clickable. Write "Link in bio".
+
+===================== ACCOUNTS =====================
+Facebook:  https://www.facebook.com/Suburbly
+Instagram: https://www.instagram.com/suburblyapp
+YouTube:   https://www.youtube.com/@Suburbly   (overview video: https://youtu.be/s08880uVmt8)
+X:         https://x.com/SuburblyApp
+TikTok:    https://www.tiktok.com/@suburbly    (personal account; no website link until 1,000 followers)
+
+===================== HASHTAGS (3-5 per post) =====================
+General:      #smallbusiness #fieldsales #doortodoor #canvassing #fieldservice
+Lawn:         #lawncare #landscaping #lawncarebusiness
+Pest:         #pestcontrol #exterminator
+Roofing:      #roofing #roofer #stormdamage
+Junk:         #junkremoval #hauling
+Real estate:  #realestateagent #realtor #listingagent
+Crews:        #crew #contractor #smallteam
+Avoid: political hashtags (#vote, party or candidate tags) on any post.

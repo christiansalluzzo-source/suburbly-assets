@@ -1,0 +1,114 @@
+SUBURBLY — CAPTIONS FOR EVERY FILE (2026-10-23)
+Read BRIEF.txt first. Pick option A or B (or write your own within the brief).
+Add 3-5 hashtags from LINKS_AND_HASHTAGS.txt. Add the link per platform:
+Instagram "Link in bio" · Facebook the tagged link (utm_campaign = muse_<YYMMDD>_<code>).
+
+=================== 01 / 02  REELS 9:16 ===================
+(01 = with music, 02 = same video, no music: add a trending sound)
+
+R1  overview — every house on one map   [POST FIRST, PIN IT]
+  Hook on screen: "Every door you knock. On one map."
+  A: Every house you knock, every follow-up you owe, on one map. Suburbly is on Google Play.
+  B: Sticky notes on the dash? Put every house and every follow-up on one map instead. Free on Android.
+  Link: website home
+
+R2  follow-ups — the Agenda remembers
+  Hook: "The quote you said you'd send."
+  A: The quote you said you'd send. The re-knock in six weeks. The Agenda remembers so you don't have to.
+  B: Every house gets a next step, and you get a reminder before it's due. That's the whole trick.
+  Link: website home
+
+R3  know the house before you knock (PRO)
+  Hook: "Owner or renter? Before you knock."
+  A: Owner or renter? Last sale? Estimated value? Know the house before you knock. (PRO · 14 days free)
+  B: Walk up knowing what to say. Property Insights shows owner-occupied or rental, last sale and value. (PRO)
+  Link: website /roofing or /real-estate-agents
+
+R4  plan the day — route
+  Hook: "Plan the day around the follow-ups."
+  A: Plan the day around the follow-ups that matter, then hand the route to Google Maps.
+  B: Pick today's stops on the map, send the route to Google Maps, drive. Done before your coffee's cold.
+  Link: website home
+
+R5  talk, snap, done (PRO)
+  Hook: "Stop typing at the door."
+  A: Talk, snap, done. Voice and photos fill in the fields while you walk to the next door. (PRO)
+  B: Say what happened at the door. Snap the roof. The fields fill themselves in. (PRO · 14 days free)
+  Link: website /roofing
+
+R6  Concierge — two minutes a morning (PRO)
+  Hook: "Two minutes. Your next two weeks."
+  A: Two minutes a morning: Concierge checks your next two weeks and asks one question at a time. You tap Schedule. (PRO)
+  B: The overdue quote, the lead you forgot, the packed Thursday. Concierge spots them and suggests the fix. (PRO)
+  Link: website home
+
+=================== 03  FEED VIDEOS 4:5 ===================
+F1  overview 4:5   — same captions as R1
+F2  follow-ups 4:5 — same captions as R2
+F3  Concierge 4:5  — same captions as R6 (PRO)
+
+=================== 04  LANDSCAPE 16:9 ===================
+L1  overview 16:9 (YouTube, Facebook feed)
+  Title (YouTube): Suburbly in 24 seconds: every house, every follow-up, on one map
+  A: The map, Property Insights, the Agenda and Concierge in 24 seconds. Free on Android.
+  Link: YouTube tagged Play link (see LINKS)
+
+=================== 05  SINGLE IMAGES ===================
+P1  before / after: sticky notes vs one map (1:1)
+  A: Sticky notes on the dash, quotes buried in your texts, follow-ups in your head. Put them on one map, with a reminder before they slip.
+  B: Before: five apps and a notebook. After: one map. Your follow-ups, out of your head.
+P2  Property Insights (PRO, 4:5)
+  A: Tap a house and see if it's owner-occupied or a rental, when it last sold and what it's worth. Walk up knowing what to say. (PRO · 14 days free)
+  NOTE: say "owner-occupied or rental", never "see who lives there".
+P3  voice and photo AI (PRO, 1:1)
+  A: Say what happened at the door. Snap the roof. Suburbly fills in the fields and writes the notes while you walk to the next house. (PRO)
+P4  Concierge (PRO, 4:5)
+  A: Every morning Concierge checks your next two weeks and asks one question at a time. It picks the day. You tap Schedule. (PRO)
+P5  run your crew (BUSINESS, 1:1)
+  A: Running a crew? Invite them in one tap, then share the same fields and the houses to work. (BUSINESS · crew joins free 14 days)
+  B: Same streets, same fields, everyone on the same page. Teams for crews, no 5-seat minimum. (BUSINESS)
+  Link: website home (section #teams)
+  NOTE: never "see where your crew is" / "live map".
+
+=================== 06  CAROUSEL (post the 4 cards in order) ===================
+C1  card1 set up for your trade · card2 tag every door · card3 never miss the follow-up · card4 knock the best doors first
+  A: Built for people who work door to door. Set it up for your trade, tag every house, never miss the follow-up.
+  B: Four things, one app: your trade's fields, every door on a map, reminders before follow-ups slip, and a score so you knock the best doors first.
+  Link: website /door-to-door-sales
+
+=================== 07  TRADE PAIRS (post a + b together as a 2-image carousel) ===================
+Each pair: (a) Concierge suggesting that trade's next step, (b) the trade's ready-made template on a house.
+Template line to reuse: "Ready on day one, yours to change: turn any field on or off, or add your own (PRO)."
+
+T1  lawn care           (free template)  Link: /lawn-care
+  A: Every estimate turned into a regular lawn. Repeat visits with a reminder before each one, and a lawn care template that's ready on day one.
+T2  pest control        (free template)  Link: /pest-control
+  A: Every treatment and renewal, on time. Follow-up treatments that don't slip, with a pest control template ready to go.
+T3  junk removal        (free template)  Link: /junk-removal
+  A: Every quote turned into a pickup. Quotes that get a second call, on time, and fields for volume, access and urgency.
+T4  roofing             (template included with PRO)  Link: /roofing
+  A: Every inspection booked. No estimate forgotten. Damage type, insurance claim and estimate, all on the house. (PRO)
+T5  door-to-door        (free template)  Link: /door-to-door-sales
+  A: Every door, every callback, on one map. Know which doors to knock again, and when.
+T6  real estate         (template included with PRO)  Link: /real-estate-agents
+  A: Every valuation followed up, on one map. Seller intent, motivation and timeline on every house. (PRO)
+T7  canvassing          (free template)  Link: /political-canvassing
+  A: Every door, every re-knock, on one map. Every street, every conversation, logged.
+  NOTE: stay neutral, no parties, candidates or issues.
+T0  brand image (home) — use for "what is Suburbly" posts, link previews, a profile highlight cover.
+  A: Every house. Every follow-up. On one map. Map, Agenda, Contacts and Concierge, on Android.
+
+=================== 08  APP SCREENS 9:16 (Stories) ===================
+Use one per Story with a short text sticker; add a link sticker on Instagram Stories.
+S1 map — "Every door you've knocked, on one map."
+S2 agenda — "What's due today, what's next, what you forgot."
+S3 Concierge (PRO) — "One question at a time. Tap Schedule."
+S4 Concierge done (PRO) — "Two minutes. Week sorted."
+S5 house card — "Notes, photos, fields and the next step, in one place."
+S6 contact — "The customer, not just the address."
+S7 team (BUSINESS) — "Invite your crew in one tap."
+S8 REAL map screenshot (a real satellite map, not a mock-up) — "This is the real app."
+NOTE: S1-S7 are replicas with fictional demo data. Don't call them "a customer's screen".
+
+=================== 09  BRAND ===================
+avatar_1080.png (profile picture) · facebook_cover_1640x924.png · banner_1024x500.png. Not for posting.
