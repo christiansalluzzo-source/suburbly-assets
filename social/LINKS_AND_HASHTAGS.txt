@@ -17,6 +17,16 @@ Real estate:   https://suburbly.app/real-estate-agents?utm_source=facebook&utm_m
 Canvassing:    https://suburbly.app/political-canvassing?utm_source=facebook&utm_medium=post&utm_campaign=<ID>
 
 On other platforms, change utm_source: instagram (story link stickers), tiktok, youtube, x.
+Example for X:  https://suburbly.app/roofing?utm_source=x&utm_medium=post&utm_campaign=muse_261024_T4
+
+WHERE LINKS WORK
+  Facebook posts ........ clickable  -> tracked website link
+  X posts ............... clickable  -> tracked website link
+  Instagram captions .... NOT clickable -> "Link in bio"
+  Instagram Stories ..... link sticker -> tracked website link, utm_source=instagram
+  YouTube Shorts ........ NOT clickable -> "Get Suburbly on Google Play: link on the channel"
+  YouTube long video .... clickable in description -> tracked Play link, utm_source=youtube
+  TikTok ................ no link (account under 1,000 followers) -> "Search Suburbly on Google Play"
 
 ===================== DIRECT GOOGLE PLAY LINK (when a post should go straight to the store) =====================
 https://play.google.com/store/apps/details?id=com.housetagger.app&referrer=utm_source%3Dfacebook%26utm_medium%3Dpost%26utm_campaign%3D<ID>

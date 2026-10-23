@@ -113,16 +113,46 @@ fee, no 5-seat minimum.
 7. LINKS (so we can see which posts bring installs)
 ===========================================================
 Every link must carry tracking tags. Full list in LINKS_AND_HASHTAGS.txt.
-- Instagram captions: links aren't clickable, write "Link in bio".
-- Facebook posts: use the tagged website link for the trade in the post,
+- Platform link rules are in section 7b (Instagram "Link in bio", TikTok
+  "Search Suburbly on Google Play", YouTube Shorts "link on the channel").
+- Facebook and X posts: use the tagged website link for the trade in the post,
   or the tagged Play link. Put the post's ID in utm_campaign (format below).
 - utm_campaign format: muse_<YYMMDD>_<asset code>, e.g. muse_261024_R1.
   Asset codes are the start of each file name (R1, F2, P3, C1, T4, S2...).
 
 ===========================================================
+7b. PLATFORMS (we post on five)
+===========================================================
+FACEBOOK (facebook.com/Suburbly)
+  Reels, feed videos, images, carousels, Stories. Links are clickable:
+  use the tracked website link (utm_source=facebook).
+INSTAGRAM (@suburblyapp)
+  Reels, carousels, images, Stories. Captions can't hold links:
+  write "Link in bio". Story link stickers: tracked link, utm_source=instagram.
+X (@SuburblyApp)
+  Short text + one video or image (or up to 4 images). Links are clickable:
+  tracked website link, utm_source=x. Keep the text under 280 characters
+  including the link; use 1-2 hashtags at most.
+YOUTUBE (@Suburbly)
+  Shorts: the 9:16 Reels (folder 01 or 02), under 60 seconds. Shorts
+  descriptions don't make links clickable: end with "Get Suburbly on Google
+  Play: link on the channel". Long videos (L1, 16:9): put the tracked Play
+  link (utm_source=youtube) at the top of the description.
+  Title: under 70 characters, the hook first.
+TIKTOK (@suburbly)
+  9:16 videos only. Prefer folder 02 (no music) + a trending TikTok sound.
+  The account can't show a website link until 1,000 followers, so the call
+  to action is: "Search Suburbly on Google Play" (or "suburbly.app").
+  Add on-screen text with the hook in the first second.
+
+Same post, every platform: adapt the caption length and the link rule above,
+keep the facts identical.
+
+===========================================================
 8. POSTING PLAN (suggested; adjust to what performs)
 ===========================================================
-- Start: post R1 (overview Reel) to Facebook + Instagram and PIN it.
+- Start: post R1 (overview Reel) everywhere: Facebook + Instagram Reel (PIN it on
+  both), YouTube Short, TikTok, and X (pin it on X too).
 - Then R2-R6 over the next 1-2 weeks, one every 2-3 days.
 - In between: trade posts (07_trade_images pairs as 2-image carousels, one
   trade at a time), the 4-card carousel (06), single images (05), stories
