@@ -115,8 +115,10 @@ fee, no 5-seat minimum.
 Every link must carry tracking tags. Full list in LINKS_AND_HASHTAGS.txt.
 - Platform link rules are in section 7b (Instagram "Link in bio", TikTok
   "Search Suburbly on Google Play", YouTube Shorts "link on the channel").
-- Facebook and X posts: use the tagged website link for the trade in the post,
-  or the tagged Play link. Put the post's ID in utm_campaign (format below).
+- Facebook posts: use the tagged website link for the trade in the post,
+  or the tagged Play link. X posts: put the tracked website link in the first
+  reply to the post, not in the post itself (decision 2026-10-25). Put the
+  post's ID in utm_campaign (format below).
 - utm_campaign format: muse_<YYMMDD>_<asset code>, e.g. muse_261024_R1.
   Asset codes are the start of each file name (R1, F2, P3, C1, T4, S2...).
 
@@ -130,9 +132,9 @@ INSTAGRAM (@suburblyapp)
   Reels, carousels, images, Stories. Captions can't hold links:
   write "Link in bio". Story link stickers: tracked link, utm_source=instagram.
 X (@SuburblyApp)
-  Short text + one video or image (or up to 4 images). Links are clickable:
-  tracked website link, utm_source=x. Keep the text under 280 characters
-  including the link; use 1-2 hashtags at most.
+  Short text + one video or image (or up to 4 images). Keep the text under
+  280 characters, use 1-2 hashtags at most. The tracked website link
+  (utm_source=x) goes in the first reply to the post, not in the post itself.
 YOUTUBE (@Suburbly)
   Shorts: the 9:16 Reels (folder 01 or 02), under 60 seconds. Shorts
   descriptions don't make links clickable: end with "Get Suburbly on Google
