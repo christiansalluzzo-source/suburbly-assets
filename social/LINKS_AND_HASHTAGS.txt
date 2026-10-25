@@ -21,7 +21,7 @@ Example for X:  https://suburbly.app/roofing?utm_source=x&utm_medium=post&utm_ca
 
 WHERE LINKS WORK
   Facebook posts ........ clickable  -> tracked website link
-  X posts ............... clickable  -> tracked website link
+  X posts ............... link in first reply -> tracked website link
   Instagram captions .... NOT clickable -> "Link in bio"
   Instagram Stories ..... link sticker -> tracked website link, utm_source=instagram
   YouTube Shorts ........ NOT clickable -> "Get Suburbly on Google Play: link on the channel"
