@@ -1,0 +1,40 @@
+# Suburbly
+
+> Every house. Every follow-up. On one map. Suburbly is an Android app for tradespeople, field-service operators, canvassers, and small crews who work property by property. It maps houses and customers, tracks every visit and quote, and reminds you of the next step, so no follow-up gets lost.
+
+## What Suburbly is
+
+Suburbly is a map-first property, customer, and follow-up tracker for solo operators and small crews. Tag any house on a map, add notes, photos, contacts, and the fields your trade uses, then give every house a next step: a call, a quote, a re-knock. Steps can repeat every 6 weeks or 6 months, and the Agenda reminds you before they are due. It works offline in the field and syncs when you are back online. Made by SLLZZ Studio, Ontario, Canada. Android only.
+
+## Plans
+
+- Free: $0. Unlimited houses, the map, the Agenda with reminders, repeating next steps, contacts, 8 trade templates, and one Concierge suggestion per day.
+- PRO: $5.99 per month or $54.99 per year. Cloud backup and sync, Property Insights, Voice-to-Fields, Photo AI, the full daily Concierge, all 20 templates, custom fields, and CSV export. New accounts get PRO free for 14 days in the app, no card.
+- BUSINESS: $12.99 per month or $99.99 per year. Everything in PRO, plus Teams and a Concierge that plans 4 weeks ahead. The owner pays for BUSINESS; crew members join with PRO, free for their first 14 days. No setup fee and no minimum seat count.
+
+## Features
+
+- Map: tag houses with colour, door response, notes, photos, and trade-specific fields. On-device routing up to 200 stops, then hand off to Google Maps.
+- Agenda: today's steps, what is next, and leads touched but never followed up. Repeating next steps with reminders.
+- Contacts: one timeline per person across every property they own. Call, text, or email in one tap.
+- Property Insights (PRO): owner-occupied or rental status, last sale, and estimated value for an address, with the public listing sites it came from. Available in the US, Canada, the UK, Ireland, Australia, and New Zealand.
+- Voice-to-Fields (PRO): speak what happened at the door and the fields fill in.
+- Photo AI (PRO): a photo of a house gets described and turned into suggested field values.
+- House Brief (PRO): everything known about a house summed up in a paragraph.
+- Concierge (PRO full, one suggestion a day free): a morning check that suggests the day, one question at a time, and plans up to 4 weeks ahead on BUSINESS.
+- Teams (BUSINESS): create a team, invite your crew in one tap with a 6-character code, and share houses and templates. Shared houses are copies each member downloads onto their own map. Teams do not show live crew locations.
+- Templates: 20 industry templates, including general canvassing, pest control, lawn care, solar, roofing, HVAC, plumbing, real estate, insurance, gutter cleaning, junk removal, charity and fundraising, political canvassing, and delivery. 8 templates are free.
+- Data: names, phone numbers and emails on your houses are encrypted on your phone before they sync, data is never sold, and it can be deleted anytime. Export to CSV or PDF, import from CSV (PRO and BUSINESS).
+
+## Trade pages
+
+- [Suburbly for Pest Control](https://suburbly.app/pest-control): track treatments, route service stops, follow up on every account.
+- [Suburbly for Roofing](https://suburbly.app/roofing): map inspections, track estimates, follow up on every quote.
+- [Suburbly for Lawn Care](https://suburbly.app/lawn-care): route lawns, track customers, never miss a cut.
+- [Suburbly for Real Estate Agents](https://suburbly.app/real-estate-agents): map a farm area, track homeowner contacts, spot listing opportunities.
+- [Suburbly for Political Canvassing](https://suburbly.app/political-canvassing): log voter contacts, track signatures, coordinate team coverage.
+
+## Links
+
+- [Suburbly home](https://suburbly.app)
+- [Get Suburbly on Google Play](https://play.google.com/store/apps/details?id=com.housetagger.app)
